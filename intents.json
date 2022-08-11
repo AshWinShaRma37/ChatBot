@@ -403,7 +403,7 @@
                 "..."
             ]
         },
-                "tag": "compliment",
+    {"tag": "compliment",
             "patterns": [
                 "it was nice talking to you",
                 "good talk"
