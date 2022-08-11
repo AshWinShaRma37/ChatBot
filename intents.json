@@ -263,24 +263,6 @@
       ],
         "context_set": ""
     },
-    {"tag": "Gali",
-     "patterns": [
-        "bc",
-        "mc",
-        "bkl",
-        "bsdk",
-        "madarchod",
-        "bhenchod",
-        "randi",
-        "randi ki aulad",
-        "fuck you",
-        "asshole",
-        "gaand marra",
-        "gandu",
-        "bhosdike",
-        "bosdike"],
-     "responses": ["Please don't swear"]
-    },
     {"tag": "Jokes",
         "patterns": [
             "Tell me a joke",
